@@ -1,0 +1,11 @@
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\bin\Debug\SEMÁFARO.exe.config
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\bin\Debug\SEMÁFARO.exe
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\bin\Debug\SEMÁFARO.pdb
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.Form1.resources
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.Properties.Resources.resources
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.csproj.GenerateResource.cache
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.exe
+C:\Users\Rony\Desktop\SEMÁFARO\SEMÁFARO\obj\Debug\SEMÁFARO.pdb
